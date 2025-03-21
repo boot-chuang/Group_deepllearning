@@ -5,13 +5,6 @@
 
 This repository contains the implementation of a multi-modal emotion recognition system that combines audio features (Action Units - AU and Mel-Frequency Cepstral Coefficients - MFCCs) for improved emotion classification using Transformer networks.
 
-## Group Members
-
-- YANG Chuang
-- Liu Zhentao
-- Chen Zehan
-- Wang Yuhuang
-
 ## Introduction
 
 The ability to recognize emotions from speech signals has emerged as a pivotal technology in affective computing, with applications ranging from mental health diagnostics to intelligent voice assistants. This project addresses the challenges of temporal dependency, modality alignment, and data sparsity through an innovative architectural design and optimization strategies.
@@ -53,8 +46,4 @@ The developed system represents a significant advancement in speech-based emotio
 - Chen, M., et al. (2020). Multimodal emotion recognition with transformer-based self-supervised feature learning. IEEE TAC.
 - Tsai, Y.H.H., et al. (2019). Multimodal transformer for unaligned multimodal language sequences. ACL.
 
-## Contact
 
-For any questions or suggestions, please contact:
-- Email: your.email@example.com
-- GitHub: [@yangchuang](https://github.com/yangchuang)
