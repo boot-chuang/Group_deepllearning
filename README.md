@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/yangchuang/Emotion-Recognition-Through-Multimodal-Feature-Fusion.svg?style=social&label=Fork)](https://github.com/yangchuang/Emotion-Recognition-Through-Multimodal-Feature-Fusion/fork)
 
 This repository contains the implementation of a multi-modal emotion recognition system that combines audio features (Action Units - AU and Mel-Frequency Cepstral Coefficients - MFCCs) for improved emotion classification using Transformer networks.
-![Model Architecture](model.png)
+![Model Architecture](modelpng.png)
 
 ## Introduction
 
